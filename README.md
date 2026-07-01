@@ -7,7 +7,7 @@ Development, UI/UX Design and databases.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Research+and+Development;Loves+Working+on+Educational+and+Financial+Usecases)](https://git.io/typing-svg)
 
- * You can find me on [LinkedIn](https://www.linkedin.com/in/tshepwww.linkedin.com/in/ang-lechaba-b26492385) and do follow me :)
+ * You can find me on [LinkedIn](www.linkedin.com/in/tshepang-lechaba-b26492385) and do follow me :)
  * 💬 Ask me about Web Development, UI/UX design and Databases. 
 
 ## 👨‍💻 About Me
